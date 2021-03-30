@@ -1,9 +1,7 @@
 $(function(){
 
     var body = $('body');
-
-
-
+   
     $(".box h1").click(function(){
     $(".box").css("background-color","blue")
     })
