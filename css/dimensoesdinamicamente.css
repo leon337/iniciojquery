@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+    background-color: antiquewhite;
+    padding: 10%;
+}
+
+.box-div{
+    width: 80%;
+    /*height: 80%;*/
+    background-color: pink;
+    margin: 10px auto;
+    text-align: center;
+    justify-content: center;
+}
+
+.box-div p{
+    /*margin-top: 30px;*/
+}
+.box-div> h1{
+    /*padding: 20px;*/
+    background-color:red;
+    display: inline-block;
+}
