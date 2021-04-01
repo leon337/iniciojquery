@@ -3,7 +3,7 @@ $(function(){
     // PEGANDO O VALOR DA LARGURA DO ELEMENTO
     $(".box-div").width();
     // SETANDO O VALOR DA LARGURA DO ELEMENTO
-    $(".box-div").width(400);
+    $(".box-div").css("width","80%");
     
     // PEGANDO O VALOR DA LARGURA DO ELEMENTO
     $(".box-div").height();
